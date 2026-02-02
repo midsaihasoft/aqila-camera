@@ -9,7 +9,7 @@ This plugin is just a wrapper of the https://github.com/commonsguy/cwac-cam2
 Android
 
 ## Installation
-`cordova plugin add https://github.com/mateusnava/aqila-camera.git`
+`cordova plugin add https://github.com/midsaihasoft/aqila-camera.git`
 
 ## How can I Use?
 
